@@ -1,0 +1,7 @@
+# Install the below dependencies
+
+python -m pip install --upgrade pip
+python -m pip install jupyter ipykernel \
+  python-dotenv langchain-openai \
+  langchain-community langchain-text-splitters \
+  chromadb pypdf
