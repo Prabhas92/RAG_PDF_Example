@@ -60,7 +60,7 @@ the files you commit.
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/Prabhas92/RAG-Tutorial.git
+git clone https://github.com/Prabhas92/RAG_PDF_Example.git
 cd RAG-Tutorial
 ```
 
