@@ -60,11 +60,10 @@ the files you commit.
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/RAG-Tutorial.git
+git clone https://github.com/Prabhas92/RAG-Tutorial.git
 cd RAG-Tutorial
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Create and activate a virtual environment
 
@@ -77,17 +76,12 @@ source .venv/bin/activate
 
 ### 3. Install dependencies
 
-If the repository includes `requirements.txt`:
+The repository includes `dependencies.txt`:
 
 ``` bash
-pip install -r requirements.txt
+pip install -r dependencies.txt
 ```
 
-Otherwise, install the packages used by the notebook:
-
-``` bash
-pip install jupyter ipykernel python-dotenv langchain-openai langchain-community langchain-text-splitters chromadb pypdf
-```
 
 ### 4. Configure your API key
 
